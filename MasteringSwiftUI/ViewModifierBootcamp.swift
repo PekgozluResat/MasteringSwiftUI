@@ -47,7 +47,7 @@ struct ViewModifierBootcamp: View {
         }.padding()
     }
 }
-
+// samet
 struct ViewModifierBootcamp_Previews: PreviewProvider {
     static var previews: some View {
         ViewModifierBootcamp()
